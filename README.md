@@ -8,7 +8,4 @@ JAVA와 DB를 연동하여 간단한 Snake 게임을 만들어보았습니다.
 * 22.07.01일 - 22.08.15일
 
 ## :gear: 개발 환경
-![image](https://github.com/Ryu-ji-hyeon/JAVA-GameTermProject/assets/112555124/6ccd59de-3ce5-4a2a-b307-8173fdaeeb75)
-
-
-
+![dd](https://github.com/Ryu-ji-hyeon/JAVA-GameTermProject/assets/112555124/799349c2-4ba7-4390-a9ed-4594f9c09eac)
