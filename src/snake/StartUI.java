@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
-
+//Start UI
 public class StartUI extends JFrame {
 	ImageIcon i = new ImageIcon("snake.png");
 	Image im=i.getImage();
