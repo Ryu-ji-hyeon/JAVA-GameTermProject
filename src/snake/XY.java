@@ -3,7 +3,7 @@ package snake;
 import java.util.Arrays;
 import java.util.Iterator;
 import java.util.LinkedList;
-
+//Snake Move
 public class XY {
     public LinkedList<XY> snake = new LinkedList<>();
 
