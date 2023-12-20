@@ -12,7 +12,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.WindowConstants;
-
+//GameOverUI
 public class GameOverUI extends JFrame {
 	ImageIcon i = new ImageIcon("gameover.png");
 	Image im=i.getImage();		
