@@ -30,7 +30,7 @@ import javax.swing.JPanel;
 import javax.swing.JPasswordField;
 import javax.swing.JRadioButton;
 import javax.swing.JTextField;
-//JAVA GameTermProject
+
 public class LoginProject {
 
 	JPanel cardPanel;

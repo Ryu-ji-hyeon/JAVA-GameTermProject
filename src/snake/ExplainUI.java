@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
-//JAVA GameTermProject
+
 public class ExplainUI extends JFrame {
 	ImageIcon i = new ImageIcon("snake_use.png");
 	Image im=i.getImage();

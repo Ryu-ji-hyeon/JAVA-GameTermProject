@@ -2,7 +2,7 @@ package snake;
 
 import java.util.Iterator;
 import java.util.LinkedList;
-//JAVA GameTermProject
+
 public class Snake implements Iterable<XY>{
 	 private static LinkedList<XY> snake;
 

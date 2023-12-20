@@ -18,7 +18,7 @@ import javax.swing.JPanel;
 import javax.swing.Timer;
 import java.util.LinkedList;
 
-//JAVA GameTermProject
+
 public class MyFrame extends JFrame {
 	static JPanel panelNorth;
 	static JPanel panelCenter;
