@@ -3,7 +3,7 @@ package snake;
 import java.util.Arrays;
 import java.util.Iterator;
 import java.util.LinkedList;
-
+//JAVA GameTermProject
 public class XY {
     public LinkedList<XY> snake = new LinkedList<>();
 

@@ -14,7 +14,7 @@ import javax.swing.JPanel;
 import javax.swing.WindowConstants;
 
 
-
+//JAVA GameTermProject
 public class GameOverUI extends JFrame {
 	ImageIcon i = new ImageIcon("gameover.png");
 	Image im=i.getImage();		
